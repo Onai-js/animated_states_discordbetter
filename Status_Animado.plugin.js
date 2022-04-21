@@ -1,4 +1,4 @@
-//META{"name":"StatusAnimado","source":"asss","website":"https://linktr.ee/kaah_znll"}*//
+//META{"name":"StatusAnimado","source":"https://github.com/kaahs2/Status_Animado_DiscordBetter/blob/main/Status_Animado.plugin.js","website":"https://linktr.ee/kaah_znll"}*//
 
 class StatusAnimado {
 	/* BD functions */
